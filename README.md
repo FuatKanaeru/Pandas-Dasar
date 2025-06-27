@@ -13,6 +13,7 @@ Requirements
 - Python 3.x
 - Pandas
 - Jupyter Notebook
+- dan lain-lain
 
 #Python #Pandas #JupyterNotebook
 Semoga bermanfaat dan selamat belajar Pandas!
